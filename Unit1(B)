@@ -1,6 +1,9 @@
 Program - Write a program to perform average of five numbers using input () function and type conversion concept.
 
- num1 = float(input("Enter first number: "))
+ 
+
+
+num1 = float(input("Enter first number: "))
  num2 = float(input("Enter second number: "))
  num3 = float(input("Enter third number: "))
  num4 = float(input("Enter fourth number: "))
